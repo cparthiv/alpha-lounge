@@ -56,7 +56,7 @@ body {
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
-    background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-purple.svg") !important;
     background-position: bottom !important;
     background-size: 300% !important;
     background-repeat: no-repeat !important;
@@ -79,7 +79,7 @@ body {
     text-align: center !important;
     background: #AD91FF !important;
     padding: 60px 50px !important;
-    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-dark.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
@@ -149,7 +149,7 @@ body {
 
 
 .page_end {
-    background-image: url("../assets/wavy-light-by-nouridio.svg") !important;
+    background-image: url("../assets/wavy-light.svg") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
@@ -186,7 +186,7 @@ color: rgba(255, 255, 255, 0.46) !important
     padding: 30px 30px !important
 }
 
-.footer .nouridio {
+.footer .alphadev {
     font-family: 'Montserrat' !important;
     font-style: normal !important;
     font-weight: 600 !important;
@@ -196,7 +196,7 @@ color: rgba(255, 255, 255, 0.46) !important
     font-variant: small-caps !important;
 }
 
-.footer .nouridio a {
+.footer .alphadev a {
     color: #AD91FF !important;
     text-decoration: none !important;
 }
